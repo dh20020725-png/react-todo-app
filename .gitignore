@@ -1,0 +1,5 @@
+backend/node_modules
+frontend/node_modules
+backend/.env
+config.bat
+node_modules
